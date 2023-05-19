@@ -1,20 +1,18 @@
 # Proyecto_III_Multiplicador_secuencial
 
-Instituto Tecnológico de Costa Rica
 
-EL 3307: Diseño Lógico
+#### Instituto Tecnológico de Costa Rica
+#### EL 3307: Diseño Lógico
+#### Grupo 20
+#### Profesor: Ing. Kaleb Alfaro Badilla
 
-Grupo 20
-
-Profesor: Ing. Kaleb Alfaro Badilla
-
-Integrantes:
+#### Integrantes:
 
     Montenegro Goméz Samuel
     Brenes Espinoza Laura Elena
     Moya Vargas Austin Joan
 
-I Semestre 2023
+#### I Semestre 2023
 
 ### Introducción
 
