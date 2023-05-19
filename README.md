@@ -42,3 +42,8 @@ Se solicita el desarrollo de una unidad de multiplicación secuencial. El mismo 
 
 
 ## Diagramas
+
+
+## Evaluación
+![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/08a09e69-5356-4cb2-a14f-5b99b2a7fd17)
+
