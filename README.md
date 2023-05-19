@@ -38,6 +38,8 @@ Se solicita el desarrollo de una unidad de multiplicación secuencial. El mismo 
 
 ## Diagramas
 
+#### General
+
 #### Diagrama de bloques del subsistema de cáculo de multiplicación. 
 ![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/e6bed718-10ae-493c-83e7-54cb4a1c47ca)
 
