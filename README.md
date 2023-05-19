@@ -36,9 +36,6 @@ Se solicita el desarrollo de una unidad de multiplicación secuencial. El mismo 
 2. Subsistema de cálculo de multiplicación.
 3. Subsistema de despliegue de resultado.
 
-## Pruebas
-
-
 ## Diagramas
 
 #### Diagrama de bloques del subsistema de cáculo de multiplicación. 
@@ -47,6 +44,11 @@ Se solicita el desarrollo de una unidad de multiplicación secuencial. El mismo 
 
 #### Diagrama de bloques del circuito que implementa la ruta de datos para el algoritmo de Booth.
 ![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/9b136262-e761-4318-b44a-6ebc5ce8ec63)
+
+
+## Pruebas
+
+
 
 
 ## Evaluación
