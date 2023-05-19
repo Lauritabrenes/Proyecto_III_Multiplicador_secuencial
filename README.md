@@ -1,1 +1,44 @@
 # Proyecto_III_Multiplicador_secuencial
+
+Instituto Tecnológico de Costa Rica
+
+EL 3307: Diseño Lógico
+
+Grupo 20
+
+Profesor: Ing. Kaleb Alfaro Badilla
+
+Integrantes:
+
+    Montenegro Goméz Samuel
+    Brenes Espinoza Laura Elena
+    Moya Vargas Austin Joan
+
+I Semestre 2023
+
+### Introducción
+
+El diseño de sistemas digitales requiere habilidad de implementación de algoritmos por medio de circuitos lógicos. Muchos algoritmos en la práctica usan iteraciones o búcles que a la hora de traducirlos a implementaciones de lógica booleana, surge la necesidad de un control lógico que habilite el correcto flujo de datos en circuito. Asimismo, las interfaces de bloque a bloque se diseñan con protocolos de bus para ayudar a estandarizar la comunicación entre unidades. Estos protocolos de bus facilitan las pruebas unitarias sobre bloques porque toda unidad se puede controlar de una manera similar. 
+En este proyecto busca introducir la implementación de algoritmos al estudiante, por medio del diseño de una unidad de cálculo de multiplicación. Y de la misma forma, esta unidad deberá respetar un protocolo de bus para su correcto funcionamiento.
+
+### Descripción general
+Introducir al estudiante a la implementación de algoritmos por medio de máquinas de estados complejas.
+
+### Objetivos específicos
+1. Elaborar una implementación de un diseño digital en una FPGA.
+2. Construir un testbench básico para validar las especificaciones del diseño.
+3. Implementar el algoritmo de Booth con una Máquina de estados con técnicas avanzadas.
+4. Coordinación de trabajo en equipo mediante el uso de herramientas de control de versiones.
+5. Practicar planificación de tareas para trabajo de grupo.
+
+### Especificación del diseño
+Se solicita el desarrollo de una unidad de multiplicación secuencial. El mismo deberá construirse según las pautas fundamentales de diseño digital sincrónico. El circuito constará de tres bloques de constructivos o subsistemas:
+
+1. Subsistema de lectura de datos.
+2. Subsistema de cálculo de multiplicación.
+3. Subsistema de despliegue de resultado.
+
+## Pruebas
+
+
+## Diagramas
