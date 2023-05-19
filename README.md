@@ -46,6 +46,14 @@ Se solicita el desarrollo de una unidad de multiplicación secuencial. El mismo 
 ![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/9b136262-e761-4318-b44a-6ebc5ce8ec63)
 
 
+#### Subsistema de lectura de datos.
+
+#### Subsistema de cálculo de multiplicación.
+
+#### Subsistema de despliegue de resultado.
+
+
+
 ## Pruebas
 
 
