@@ -43,6 +43,13 @@ Se solicita el desarrollo de una unidad de multiplicación secuencial. El mismo 
 
 ## Diagramas
 
+#### Diagrama de bloques del subsistema de cáculo de multiplicación. 
+![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/e6bed718-10ae-493c-83e7-54cb4a1c47ca)
+
+
+#### Diagrama de bloques del circuito que implementa la ruta de datos para el algoritmo de Booth.
+![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/9b136262-e761-4318-b44a-6ebc5ce8ec63)
+
 
 ## Evaluación
 ![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/08a09e69-5356-4cb2-a14f-5b99b2a7fd17)
