@@ -48,16 +48,28 @@ Se solicita el desarrollo de una unidad de multiplicación secuencial. El mismo 
 
 
 #### Subsistema de lectura de datos.
+![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/66ae4bd9-f638-46eb-8274-319ddfae830c)
+
+#### Antirebote del sistema de lectura.
+![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/dd8f6c72-817e-4ae7-b4f2-16354970ee48)
+
 
 #### Subsistema de cálculo de multiplicación.
+![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/a809c3c4-3fcf-44f0-9b13-14c2659b7427)
+
 
 #### Subsistema de despliegue de resultado.
+
+
+#### Funcionamiento Fundamental Subsistema de cálculo de multiplicación
+![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/3d1a6627-8844-4ed2-8c0e-c00b04f43f65)
 
 
 #### Conexiones basicas de la Nexys 3
 ![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/dac17467-469d-4d02-8e8e-5ea7f5ead801)
 
 Nexys 3 Reference Manual (https://digilent.com/reference/programmable-logic/nexys-3/reference-manual)
+Nexys 4DDR Reference Manual (https://digilent.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
 
 ## Pruebas
 
