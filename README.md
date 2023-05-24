@@ -59,6 +59,7 @@ Se solicita el desarrollo de una unidad de multiplicación secuencial. El mismo 
 
 
 #### Subsistema de despliegue de resultado.
+![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/e31789c4-abd2-4d1a-a804-ba160610a7a4)
 
 
 #### Funcionamiento Fundamental Subsistema de cálculo de multiplicación
