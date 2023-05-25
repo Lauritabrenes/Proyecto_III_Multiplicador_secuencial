@@ -66,6 +66,10 @@ Se solicita el desarrollo de una unidad de multiplicación secuencial. El mismo 
 ![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/3d1a6627-8844-4ed2-8c0e-c00b04f43f65)
 
 
+#### Diagrama de estado subsistema de cálculo de multiplicación
+![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111259804/4f5f1859-ad17-4a25-ac58-c3a7157185eb)
+
+
 #### Conexiones basicas de la Nexys 3
 ![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/dac17467-469d-4d02-8e8e-5ea7f5ead801)
 
