@@ -77,6 +77,14 @@ Nexys 3 Reference Manual (https://digilent.com/reference/programmable-logic/nexy
 Nexys 4DDR Reference Manual (https://digilent.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
 
 ## Pruebas
+#### Testbench Subsistema de Lectura
+![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111307104/05593d85-21a8-46a1-bec8-5cbcad0b5b79)
+
+#### Testbench Multiplicacion con FSM
+![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111307104/501bc7d9-65ca-4443-9f29-717f98835ccc)
+
+
+
 #### Testbench Subsistema de Despliegue 
 ![Imagen de WhatsApp 2023-06-13 a las 19 33 39](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/1a4dda38-660c-426f-b58a-a89e143225ca)
 
