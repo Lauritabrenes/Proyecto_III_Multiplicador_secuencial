@@ -106,10 +106,13 @@ Nexys 4DDR Reference Manual (https://digilent.com/reference/programmable-logic/n
 
 ### Problemas encontrados
 Durante el desarrollo de este proyecto se tuvieron inconvenientes en la realización del mismo que no permitieron alcanzar el objetivo principal el cual era desarrollar un multiplicador secuencial. Algunos de estos problemas fueron:
-1.Deficiente planificación del cronograma de entregas por parte de los miembros de este grupo
-2.Deficiente distribucion de la carga de trabajo por cada miembro
-3.Incorrecto desarrollo de código programado que no permitió el ensamble de los subsistemas desarrollados
-4. Falta de estudio por parte de la teoría para desarrollar un mejor diseño y soluciones para este proyecto
+1.Deficiente planificación del cronograma de entregas por parte de los miembros de este grupo.
+
+2.Deficiente distribucion de la carga de trabajo por cada miembro.
+
+3.Incorrecto desarrollo de código programado que no permitió el ensamble de los subsistemas desarrollados.
+
+4. Falta de estudio por parte de la teoría para desarrollar un mejor diseño y soluciones para este proyecto.
 
 ## Evaluación
 ![image](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/08a09e69-5356-4cb2-a14f-5b99b2a7fd17)
