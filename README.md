@@ -77,6 +77,8 @@ Nexys 3 Reference Manual (https://digilent.com/reference/programmable-logic/nexy
 Nexys 4DDR Reference Manual (https://digilent.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
 
 ## Pruebas
+#### Testbench Subsistema de Despliegue 
+![Imagen de WhatsApp 2023-06-13 a las 19 33 39](https://github.com/Lauritabrenes/Proyecto_III_Multiplicador_secuencial/assets/111261878/1a4dda38-660c-426f-b58a-a89e143225ca)
 
 
 
